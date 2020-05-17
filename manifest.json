@@ -1,0 +1,13 @@
+{
+	"manifest_version":2,
+	"description":"Конвертор валют банка Тинькофф",
+	"name" : "Калькулятор",
+	"version" : "1.1",
+	 "browser_action": {      
+        "default_popup": "popup.html"  // Всплывающее окно
+    },
+
+	"icons": {	"16":"calc.png",
+				"48":"calc.png",
+				"128":"calc.png"}
+}
